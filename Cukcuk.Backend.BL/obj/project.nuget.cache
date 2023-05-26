@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nAybWiIgc8wLGHXU5zhlRRoAUBEkzH5GLRbBfAT8jJD9qfxSgCj8Fs0GQUm3OhzQDpqQuUpJGMHrRapsmYUxig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\84329\\source\\repos\\Cukcuk.Backend\\Cukcuk.Backend.BL\\Cukcuk.Backend.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\84329\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\84329\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512"
+  ],
+  "logs": []
+}

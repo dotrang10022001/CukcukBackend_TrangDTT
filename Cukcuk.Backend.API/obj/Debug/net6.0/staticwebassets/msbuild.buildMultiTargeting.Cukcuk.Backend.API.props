@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cukcuk.Backend.API.props" />
+</Project>
